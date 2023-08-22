@@ -16,4 +16,4 @@ Para o magnetômetro foram feitos 2 testes:
 * Levemente: com 3 testes
 * Intensamente: com 3 testes
 
-* Dados obtidos por: [Gabriel P. Santos](https://github.com/GabPSant)
+# * Dados obtidos por: [Gabriel P. Santos](https://github.com/GabPSant)
